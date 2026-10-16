@@ -1,0 +1,30 @@
+{
+  "_note": "tours / columns / facts は Projectファイルの内容で埋める。ここに無いURL・事実は記事に使わない。",
+  "name": "石垣島",
+  "domain": "ishigaki-pipi.com",
+  "brand_color": "#009beb",
+  "greeting": "<p>みなさんこんにちは！石垣島最大級のアクティビティショップ『石垣島 ADVENTURE PiPi』です！</p><br>",
+  "activity_url": "https://ishigaki-pipi.com/activity#header1",
+  "cta_activity": "<strong>[su_button url=\"https://ishigaki-pipi.com/activity#header1\" style=\"glass\" background=\"#009beb\" size=\"5\" center=\"yes\" icon=\"icon: hand-o-right\" icon_color=\"#ffffff\" text_shadow=\"1px 1px 1px #000000\" title=\"石垣島のアクティビティ人気ランキング\"]石垣島のアクティビティ<br>人気ランキングはこちら！[/su_button]</strong>",
+  "tours": [
+    {
+      "_example": "削除して実データに置き換え",
+      "name": "",
+      "url": "",
+      "rank": null,
+      "duration": "",
+      "min_age": "",
+      "pickup": "",
+      "area": ""
+    }
+  ],
+  "columns": [
+    {
+      "_example": "削除して実データに置き換え",
+      "title": "",
+      "url": "",
+      "topics": []
+    }
+  ],
+  "facts": []
+}
